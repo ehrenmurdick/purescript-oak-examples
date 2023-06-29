@@ -1,0 +1,6 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "virtual-dom": "^2.1.1"
+  }
+}
