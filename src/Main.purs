@@ -2,7 +2,7 @@ module Main (main) where
 
 import Oak
 
-import ManyCounters as Ex
+import GetAndParseJson as Ex
 
 import Effect
 import Prelude

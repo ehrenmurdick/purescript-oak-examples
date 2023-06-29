@@ -1,5 +1,9 @@
 module ManyCounters where
 
+-- building on the Counter example, what if you need many counter components on
+-- one page. this is one way to do it, by changing the model to be an array
+-- of numbers and updating them by index.
+
 import Oak
 import Counter as C
 
