@@ -2,7 +2,7 @@ module Main (main) where
 
 import Oak
 
-import Counter as Ex
+import ManyCounters as Ex
 
 import Effect
 import Prelude
