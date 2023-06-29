@@ -1,5 +1,8 @@
 module Counter where
 
+-- this is the simplest example. the model is a single number that can be
+-- incremented or decremented.
+
 import Oak
 
 import Prelude hiding (div)
